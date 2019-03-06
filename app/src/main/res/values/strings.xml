@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Resturant</string>
+
+    <string-array name="shrki">
+        <item>كباب لحم</item>
+        <item>كباب دجاج</item>
+        <item>مشاوي مشكل</item>
+        <item>دجاج على التمن</item>
+        <item>قوزي الشام</item>
+        <item>تشريب لحم</item>
+    </string-array>
+
+    <string-array name="ghrabi">
+        <item>فاهيا</item>
+        <item>بيتزا</item>
+        <item>فوتوشيني</item>
+        <item>بيتزا ماركريتا</item>
+        <item>بيللا</item>
+    </string-array>
+
+    <string-array name="sea">
+        <item>روبيان</item>
+        <item>تونة</item>
+        <item>مسكوف</item>
+        <item>مطبك سمك</item>
+        <item>كافيار</item>
+
+    </string-array>
+
+    <string-array name="mukab">
+        <item>حمص</item>
+        <item>فتوش</item>
+        <item>تبولة</item>
+        <item>جاجيك</item>
+        <item>سيزر</item>
+        <item>بابا غنوج</item>
+        <item>فنكر</item>
+    </string-array>
+
+    <string-array name="drinks">
+        <item>مشروبات غازية</item>
+        <item>عصائر طبيعية</item>
+        <item>شاي</item>
+        <item>قهوة</item>
+        <item>كابوتشينو</item>
+    </string-array>
+
+    <string-array name="sweet">
+        <item>زنود الست</item>
+        <item>زلابية</item>
+        <item>كنافة</item>
+        <item>بقلاوة</item>
+        <item>كيك</item>
+    </string-array>
+</resources>
